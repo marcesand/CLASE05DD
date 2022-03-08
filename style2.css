@@ -1,0 +1,36 @@
+body 
+{
+    background-color: rgb(229, 209, 243);
+   }
+   h1 {
+    color: rgb(95, 89, 155);
+    text-align: center;
+   
+   }
+   p {
+   font-family: verdana;
+    font-size: 20px;
+   }
+
+h2 {
+ color: rgb(221, 65, 200);
+ text-align: center;
+}
+p {
+font-family: serif;
+ font-size: 8px;
+}
+
+h3 {
+    color: rgb(233, 140, 205);
+    text-align: center;
+   }
+   p {
+   font-family: verdana;
+    font-size: 20px;
+   }
+
+p {
+font-family: verdana;
+ font-size: 20px;
+}
